@@ -7,3 +7,7 @@ function repeatStr (n, s) {
      }
      return repeatedString;
    }
+
+//    function repeatStr (n, s) {
+//     return s.repeat(n);
+//   }
